@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzWulwwVgqnskRW6moj1zStuVfMI/2+3farw6OjSMFfQjN7MDd/UfXRsrXMmWFIC+Alb6wycAJ/OgcoL+wyDbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WinISO\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
