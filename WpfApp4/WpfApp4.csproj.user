@@ -7,7 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Frames\allBooks.xaml.cs">
+    <Compile Update="Views\allBooksView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\crudBooksView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\statsBooksView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -18,7 +24,16 @@
     <Page Update="Colors\Colors.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Frames\allBooks.xaml">
+    <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\allBooksView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\crudBooksView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\statsBooksView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

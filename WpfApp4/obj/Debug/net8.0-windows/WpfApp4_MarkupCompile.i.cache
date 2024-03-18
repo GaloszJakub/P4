@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\App.xaml
-3-455458433
+6620772337
 
-7-1224024345
+14-430012991
 208-166397335
-Colors\ButtonStyles.xaml;Colors\Colors.xaml;Frames\allBooks.xaml;
+Colors\ButtonStyles.xaml;Colors\Colors.xaml;Views\allBooksView.xaml;Views\crudBooksView.xaml;Views\MainWindow.xaml;Views\statsBooksView.xaml;
 
 False
 
