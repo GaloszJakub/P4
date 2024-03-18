@@ -3,35 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\colors\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\colors\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\colors\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\colors\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\colors\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\colors\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WinISO\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\frames\\allbooks.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\frames\\allbooks.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|c:\\users\\winiso\\source\\repos\\wpfapp4\\wpfapp4\\wpfapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A908B30-96FD-4602-A368-0C9E557AF396}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\wpfapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,80 +29,38 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 209,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WpfApp4.csproj",
-              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
-              "RelativeDocumentMoniker": "WpfApp4\\WpfApp4.csproj",
-              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
-              "RelativeToolTip": "WpfApp4\\WpfApp4.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-11T13:39:02.296Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp4\\MainWindow.xaml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAjwC8AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T13:37:39.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Colors.xaml",
-              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\Colors\\Colors.xaml",
-              "RelativeDocumentMoniker": "WpfApp4\\Colors\\Colors.xaml",
-              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\Colors\\Colors.xaml",
-              "RelativeToolTip": "WpfApp4\\Colors\\Colors.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T14:12:11.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp4\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T13:30:08.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml",
-              "RelativeDocumentMoniker": "WpfApp4\\App.xaml",
-              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml",
-              "RelativeToolTip": "WpfApp4\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T13:43:13.719Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 191,
+          "DockedWidth": 227,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:31:30.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "allBooks.xaml",
+              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\Frames\\allBooks.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\Frames\\allBooks.xaml",
+              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\Frames\\allBooks.xaml",
+              "RelativeToolTip": "WpfApp4\\Frames\\allBooks.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T17:29:47.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ButtonStyles.xaml",
               "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\Colors\\ButtonStyles.xaml",
               "RelativeDocumentMoniker": "WpfApp4\\Colors\\ButtonStyles.xaml",
@@ -125,27 +72,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Window.cs",
-              "DocumentMoniker": "C:\\Users\\WinISO\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs",
-              "ToolTip": "C:\\Users\\WinISO\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs[Tylko do odczytu]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ab7bdae9243e5122ba9edb32871e43129da7d00db627fba3fc17e8a1e08277\\Window.cs[Tylko do odczytu]",
-              "ViewState": "AQIAAMcQAAAAAAAAAAAqwNAQAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:14:20.794Z",
-              "EditorCaption": "[Tylko do odczytu]"
+              "DocumentIndex": 1,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\Colors\\Colors.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\Colors\\Colors.xaml",
+              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\Colors\\Colors.xaml",
+              "RelativeToolTip": "WpfApp4\\Colors\\Colors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:12:11.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp4\\MainWindow.xaml",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\App.xaml",
+              "ToolTip": "C:\\Users\\WinISO\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml",
+              "RelativeToolTip": "WpfApp4\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T13:30:09.989Z"
+              "WhenOpened": "2024-03-11T13:43:13.719Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -24,3 +24,6 @@ C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Colors\But
 C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
 C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.AssemblyReference.cache
 C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.csproj.Up2Date
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\WpfApp4.sourcelink.json
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Frames\allBooks.g.cs
+C:\Users\WinISO\source\repos\WpfApp4\WpfApp4\obj\Debug\net8.0-windows\Frames\allBooks.baml

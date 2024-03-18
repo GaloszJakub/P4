@@ -7,13 +7,18 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Frames\allBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="Colors\ButtonStyles.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Colors\Colors.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="Frames\allBooks.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

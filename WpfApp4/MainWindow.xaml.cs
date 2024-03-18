@@ -20,5 +20,16 @@ namespace WpfApp4
         {
             InitializeComponent();
         }
+        protected override void OnMouseLeftButtonDown(MouseButtonEventArgs e)
+        {
+            base.OnMouseLeftButtonDown(e);
+
+            // Begin dragging the window
+            this.DragMove();
+        }
+        private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+            mainFrame.Navigate(new allBooks());
+        }
     }
 }
